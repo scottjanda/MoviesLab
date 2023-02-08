@@ -1,0 +1,15 @@
+C:\Users\scott\Desktop\GrandCircus\Repositories\MoviesLabApp\MoviesLab\bin\Debug\net6.0\MoviesLab.exe
+C:\Users\scott\Desktop\GrandCircus\Repositories\MoviesLabApp\MoviesLab\bin\Debug\net6.0\MoviesLab.deps.json
+C:\Users\scott\Desktop\GrandCircus\Repositories\MoviesLabApp\MoviesLab\bin\Debug\net6.0\MoviesLab.runtimeconfig.json
+C:\Users\scott\Desktop\GrandCircus\Repositories\MoviesLabApp\MoviesLab\bin\Debug\net6.0\MoviesLab.dll
+C:\Users\scott\Desktop\GrandCircus\Repositories\MoviesLabApp\MoviesLab\bin\Debug\net6.0\MoviesLab.pdb
+C:\Users\scott\Desktop\GrandCircus\Repositories\MoviesLabApp\MoviesLab\obj\Debug\net6.0\MoviesLab.csproj.AssemblyReference.cache
+C:\Users\scott\Desktop\GrandCircus\Repositories\MoviesLabApp\MoviesLab\obj\Debug\net6.0\MoviesLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\scott\Desktop\GrandCircus\Repositories\MoviesLabApp\MoviesLab\obj\Debug\net6.0\MoviesLab.AssemblyInfoInputs.cache
+C:\Users\scott\Desktop\GrandCircus\Repositories\MoviesLabApp\MoviesLab\obj\Debug\net6.0\MoviesLab.AssemblyInfo.cs
+C:\Users\scott\Desktop\GrandCircus\Repositories\MoviesLabApp\MoviesLab\obj\Debug\net6.0\MoviesLab.csproj.CoreCompileInputs.cache
+C:\Users\scott\Desktop\GrandCircus\Repositories\MoviesLabApp\MoviesLab\obj\Debug\net6.0\MoviesLab.dll
+C:\Users\scott\Desktop\GrandCircus\Repositories\MoviesLabApp\MoviesLab\obj\Debug\net6.0\refint\MoviesLab.dll
+C:\Users\scott\Desktop\GrandCircus\Repositories\MoviesLabApp\MoviesLab\obj\Debug\net6.0\MoviesLab.pdb
+C:\Users\scott\Desktop\GrandCircus\Repositories\MoviesLabApp\MoviesLab\obj\Debug\net6.0\MoviesLab.genruntimeconfig.cache
+C:\Users\scott\Desktop\GrandCircus\Repositories\MoviesLabApp\MoviesLab\obj\Debug\net6.0\ref\MoviesLab.dll
